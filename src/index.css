@@ -27,7 +27,7 @@ li {
 }
 
 .progress-bar-preloader {
-  height: 100vh;
+  height: 2px;
   width: 100vw;
   position: fixed;
   top: 0;
