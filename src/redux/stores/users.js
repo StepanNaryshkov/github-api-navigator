@@ -1,5 +1,6 @@
 const users = {
-  fetching: false
+  fetching: false,
+  data: null
 };
 
 export default users;

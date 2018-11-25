@@ -5,7 +5,8 @@ import { getUsers } from '../../redux/actions/user';
 
 export default connect(
   ({ users }) => ({
-    users
+    user: users.data,
+    fetching: users.fetching
   }),
   dispatch =>
     bindActionCreators(
