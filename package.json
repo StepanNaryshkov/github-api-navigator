@@ -2,6 +2,15 @@
   "name": "github-navigator",
   "version": "0.1.0",
   "private": true,
+  "author": "Stepan Naryshkov <stepan.naryshkov@gmail.com>",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/StepanNaryshkov/github-api-navigator",
+  "tags": [
+    "react",
+    "redux",
+    "github-api",
+    "css modules"
+  ],
   "dependencies": {
     "axios": "^0.18.0",
     "lodash.throttle": "^4.1.1",
